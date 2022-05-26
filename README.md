@@ -11,7 +11,7 @@ Would consist of one maybe two notebooks max, probably mostly markdown.
 
 ## A Crash Introduction to Python
 
-Structure of a python file, data types, importing packages, Objects, functions, classes, indexing lists and arrays, slicing arrays. Start to introduce the core packages that you will always use, so numpy and its specific data types. 
+Structure of a python file, data types, importing packages, functions, indexing, slicing arrays/lists. Start to introduce the core packages that you will always use, so numpy and its specific data types. 
 
 Maybe a short piece on how to google something you want to do, finding a relevant python package, installing that package and making sense of a packages wiki page in order to use it. 
 
@@ -60,3 +60,9 @@ One notebook likely, with the data importing now abstracted to a hidden function
 ## A quick start in the debugging procedure
 
 Not sure about this section but I have a small idea brewing on showing a brief overview on how to get started with debugging.
+
+
+## Appendix / Optional Extras
+
+Could go into further detail with functions and classes, possibly even on application structure. 
+
