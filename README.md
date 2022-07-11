@@ -1,6 +1,7 @@
 # PyPlottingASK
 My contribution to the Newcastle University academic skills kit. A repository of jupyter notebook based teachings on producing academic grade plots with various python packages.
 
+I'll be writing the majority of the coding tutorial in Jupyter notebook however as in the nature of Python, feel free to copy and paste the code into any python environment that you're comfortable with. 
 
 
 ## Accessing Python on Campus and on your Personal Computer
